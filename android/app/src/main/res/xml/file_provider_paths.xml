@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Allows sharing/opening files from external storage (Downloads/Recovered/) -->
+    <external-path name="external_files" path="." />
+    <!-- Allows sharing thumbnails from app cache dir -->
+    <cache-path name="cache_files" path="." />
+</paths>
